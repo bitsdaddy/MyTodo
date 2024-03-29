@@ -1,6 +1,6 @@
 # MyTodo App
 
-Welcome to MyTodo, a simple and intuitive to-do list application developed by [Elhan Raza](mailto:raza.elhan2002@gmail.com).
+Welcome to MyTodo, a simple and intuitive to-do list application developed by me.
 
 ## Overview
 
